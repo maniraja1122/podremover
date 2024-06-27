@@ -1,4 +1,4 @@
-# podremover
+# Pod Remover 
 A Kubernetes Operator to remove Independent Pods (Having No Controllers i.e not part of Deployment, ReplicaSet ,DaemonSet or StatefulSet)
 
 
