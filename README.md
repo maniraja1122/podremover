@@ -3,7 +3,8 @@ A Kubernetes Operator to remove Independent Pods (Having No Controllers i.e not 
 
 
 
-## Getting Started
+## Note
+I tested on KinD Cluster only.
 
 ### Install
 
